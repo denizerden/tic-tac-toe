@@ -96,3 +96,6 @@ ol,ul{
       margin-right: -30px;
     }
 }
+button{
+  width: max-content;
+}
