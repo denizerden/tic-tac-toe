@@ -93,5 +93,6 @@ ol,ul{
 }
     .game-board{
         width: 100vw;
+      margin-right: -30px;
     }
 }
