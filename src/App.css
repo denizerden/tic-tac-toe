@@ -59,7 +59,10 @@
   content: "";
   display: table;
 }
-
+.border-row
+{
+    display: inline-flex;
+}
 .game{
   position: absolute;
   top: 50%;
@@ -81,4 +84,8 @@ ol,ul{
 
 .status{
   margin-bottom: 10px;
+}
+
+@media only screen and (max-width: 375px) {
+
 }
